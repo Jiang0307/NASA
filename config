@@ -1,0 +1,4 @@
+Host ubuntu
+	User f74084046
+	HostName 10.100.100.106
+	IdentityFile ~/.ssh/saved_key
